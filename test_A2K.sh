@@ -1,7 +1,7 @@
 
 python test.py \
---content_path ./dataset/content \
---style_path ./dataset/style \
+--content_path ./datasets/content \
+--style_path ./datasets/style \
 --name A2K \
 --model A2K \
 --dataset_mode unaligned \
